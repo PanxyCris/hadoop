@@ -34,6 +34,7 @@
 # Of course, to be 100% sure about the reason of a test failure, closer look
 # at the failed test for the specific run is necessary.
 #
+
 import sys
 import platform
 sysversion = sys.hexversion
